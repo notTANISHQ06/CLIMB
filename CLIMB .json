@@ -1,0 +1,1150 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 271,
+    "major": 5,
+    "minor": 6,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "antialiasingMode": "MSAA",
+    "antialisingEnabledOnMobile": false,
+    "folderProject": true,
+    "orientation": "default",
+    "packageName": "com.example.gamename",
+    "pixelsRounding": true,
+    "projectUuid": "7341c188-7788-427e-bf65-10f81e5da44b",
+    "scaleMode": "nearest",
+    "sizeOnStartupMode": "adaptWidth",
+    "templateSlug": "",
+    "useDeprecatedZeroAsDefaultStringVariable": true,
+    "version": "1.0.0",
+    "name": "CLIMB ",
+    "description": "",
+    "author": "",
+    "windowWidth": 1920,
+    "windowHeight": 1080,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {
+      "android-icon-144": "",
+      "android-icon-192": "",
+      "android-icon-36": "",
+      "android-icon-48": "",
+      "android-icon-72": "",
+      "android-icon-96": "",
+      "android-windowSplashScreenAnimatedIcon": "",
+      "desktop-icon-512": "",
+      "ios-icon-100": "",
+      "ios-icon-1024": "",
+      "ios-icon-114": "",
+      "ios-icon-120": "",
+      "ios-icon-144": "",
+      "ios-icon-152": "",
+      "ios-icon-167": "",
+      "ios-icon-180": "",
+      "ios-icon-20": "",
+      "ios-icon-29": "",
+      "ios-icon-40": "",
+      "ios-icon-50": "",
+      "ios-icon-57": "",
+      "ios-icon-58": "",
+      "ios-icon-60": "",
+      "ios-icon-72": "",
+      "ios-icon-76": "",
+      "ios-icon-80": "",
+      "ios-icon-87": ""
+    },
+    "loadingScreen": {
+      "backgroundColor": 0,
+      "backgroundFadeInDuration": 0.2,
+      "backgroundImageResourceName": "",
+      "gdevelopLogoStyle": "light",
+      "logoAndProgressFadeInDuration": 0.2,
+      "logoAndProgressLogoFadeInDelay": 0,
+      "minDuration": 1.5,
+      "progressBarColor": 16777215,
+      "progressBarHeight": 20,
+      "progressBarMaxWidth": 200,
+      "progressBarMinWidth": 40,
+      "progressBarWidthPercent": 30,
+      "showGDevelopSplash": true,
+      "showProgressBar": true
+    },
+    "watermark": {
+      "placement": "bottom-left",
+      "showWatermark": true
+    },
+    "authorIds": [],
+    "authorUsernames": [],
+    "categories": [],
+    "playableDevices": [],
+    "extensionProperties": [],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "file": "assets/Idle (32x32).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Idle (32x32).png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/e317bc31968947a3f5da6ae742774d564b4601fd209e1718fa3e1149690da7e1-Idle (32x32).png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/1.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "1.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/079986b5ad082f30071686f5266817e77f08ca723a6b59d7cb776d22029e8ab2-1.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/2.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "2.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/9e5ea531901fbfbac392159ad5e2e0753713b65b7f8176fd183e54e35da0080c-2.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/3.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "3.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/8b67a9c9c273247a3a03bc82c7a3dd2cf57390b0170ceb77974cb72a32bf3318-3.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/4.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "4.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/3b00bd6f739610f2815b18c656ac7461ddc8b1b4787445c03cc6999da98d4965-4.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/5.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "5.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/487526ee6e8af640bc84aa4f2d25a8cfe889df633b4b62949f573bc8afb86385-5.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/6.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "6.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/8e9b0946ea45426609b28092735cc7f894e5517c119ad795941a9326a0aa3fda-6.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/7.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "7.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/8b91ff88eabb025858cf00f055c4becd38cef4f9396452e354c2ea4540c8a322-7.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/8.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "8.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/d29a25a1a438b25af885161c36d822213147ac241911e97b0fac2295e703f6ef-8.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/9.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "9.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/33cc49e9d4e5429a9f284868eca4e9e91f8ed0d35587a1e2b56d0fc0d2ffe20c-9.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/10.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "10.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/fe0fad639b2c7ed1856f335d67d5128313d0bc0918aee65b4b4464674fa8d4ea-10.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/11.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "11.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/1cd5458a4aa82405c8f54bd683a0e3243978c932d6b2189237f9029d03c2980d-11.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/f1.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "f1.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/2ad2b4a261f9cc27a13fe0d6d2ebe35f6b2707e4ece6b5c19e3dc6a82a819493-f1.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/f2.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "f2.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/3fd898c6778caab2417a723100a4c8f708a98705daedf55d1d98f4875401de85-f2.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/g1.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "g1.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/86062adfbb997fd4b0b98184895328e551705463c9efae8dd5bedc0b1b125907-g1.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/f4.PNG.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "f4.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/68d0b3a13121f3723d8d21a38c350b3476c336b9315b1052ee95a3165d970f58-f4.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/f4.PNG2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "f4.PNG2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/plat1.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "plat1.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/7038d2ead41fe14e1da9a71d7965fbcbefb7c666829852faffc6ae6061698edf-plat1.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/p4.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "p4.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/a236c71c27c6c7b4e0b7b2065c94c1cf22b9522c8896c0f742e7b0174227c6a9-p4.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/p5.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "p5.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/7a09e058bd96e1d025e68b797c3e52a357b8f6910c8967db0577bc1adeeb7add-p5.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/mp1.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "mp1.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/1d747260960494d1132d72c86a08cd7ef5f364a44daaef32a530e806d41f782c-mp1.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/c1.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "c1.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/b56d6febf368cc0a88ff61dad76cb5c944df78886442a63f593b6614e4c4f6e8-c1.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/c2.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "c2.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/33d80b991f6bcb463596eb3953df7516a9bc4e2a489fd0810ff0ea0241258f90-c2.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/c3.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "c3.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/38134ba477a8e333c23c0746a892f14f73c7c293a54111ceb3b5252886bd03c1-c3.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/c4.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "c4.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/97a80a8e5644c1073f21248e18bea12ef412dde9ec9f0d10a9e2eecfc4bb539a-c4.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/c5.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "c5.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/55c50a70063e4c2f9d0a0e5a6b7a20567cd4e0f13867ae23ae363631683ee930-c5.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/c6.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "c6.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/cb39cab86acf999f66dfa1b46f114a95e19d64421d5c0ceba2d08e101bf92179-c6.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/b1.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "b1.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/8f96afd3c972c23eba209a7ec30b9f46823032d42a37d8f9b1cb13e91e115f4f-b1.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/b2.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "b2.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/a19594acda8e2063b92ad555887e3b9a9756f9f6cff387f51e4228c41b47aace-b2.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/b3.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "b3.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/fa649ac8954d1946e2db3261881bb2dcd96519fb330324d7b64315a3fb03ea95-b3.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/b4.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "b4.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/9a855644415be2d0e7eba41c3ec86fb8ba70e0cb45fc3d8a3ab31094a49e37bf-b4.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/e1.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "e1.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/0d641468a278c3c113aefc2ec1451b278df776f96ac9ded891c0074d76d6347b-e1.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/e2.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "e2.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/8e99678a258a5af64aeea15c43d33640f3d1fe8d23eaa5109e04771c58baf487-e2.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/e3.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "e3.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/786a7ce970b16378d42e4249626667a6d5f7b48ca19a17e857e8c093874c7ae9-e3.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/e4.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "e4.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/e186ceb7d4e25c5c6dfe68a182b373765f6056517185d6b428cfce0ed8368b14-e4.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/e5.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "e5.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/bd657f7496cc0b6f9a9bb56f943c375974ac295d3bc9822f0d19bf66cfe134fc-e5.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/e6.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "e6.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/2ea19b00f5eec81aad6f489e1560f4ffe7865903e28daf90db4fdb1d069875b4-e6.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/e7.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "e7.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/2b1070bb1d1c841bc5d98d396bb24070b60a24b558265adcc0054a571cb08d82-e7.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/e8.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "e8.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/0d4f16feb8aaa61220863f10ee381604d7e8903d29b19a84f6ba7ad8ec8d14b4-e8.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/e9.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "e9.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/44d6478c7d12d12e04bde7c7ee11dd3f7400c2654b48dd9e675244fc4a2434ce-e9.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/e10.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "e10.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/0a422d4888dd2f1cf0e12722622c4755631c8bc5699d0106d902be386266dfb8-e10.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/e11.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "e11.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/0467ed9bf1a9b00e5a1e2ce4aa00bc6ecef0b85845d201e393382063c034bc7f-e11.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/e12.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "e12.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/09bc6d1330fc7429827939bb16fa566af8dcb0b0ac64688500deb282c36f904b-e12.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/Jump (32x32).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Jump (32x32).png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/73ab57558dc0ffb87339013e7543d7df789da6cfd9ed771878c0a199b5748b44-Jump (32x32).png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/d2.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "d2.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/380a816f404d439445119618da0c59934cfd2a7f829261d999ad0e389b7b9fec-d2.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/d3.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "d3.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/12ea17b03885ae253dbfe85bb938d6dc8e52409c9fa496b367115bbc79055623-d3.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/d4.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "d4.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/66261d6fa2258459ab85891a0b90b09a15d03be06b3f2faccc25c8637ec4bd89-d4.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/d5.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "d5.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/43620fb019ff9c46f8b611c3cf4f04b6bed6e65ab4729348af84034f7528cef4-d5.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/d99.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "d99.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/8866f59d51eacdca463034c0cf33a33d4b027e2100e38058c3839d835a6fe68e-d99.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/Boundary.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Boundary",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/r1.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "r1.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/2d77defd800ecc13d7e296e68a56c6bc0f802979b38f7a992599254fa144b1b1-r1.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/r2.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "r2.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/512f0de4ab837b76409f263efb90fcf91a961b2ac508f6a2e45bb0f6060652f4-r2.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/r3.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "r3.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/7747107aff3e7d910fff1075e22345fbdbe3d673ffc575e054be1fecf3e51437-r3.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/r4.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "r4.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/44a7a6788f7f570e57abe46f1e12a97b66bac24334938aded689ff9642c54b9a-r4.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/r5.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "r5.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/ea6d8f1023b32163e2dbb949134fc0490c5418eb8b5b1bb4f2ca2a96a4ca3bd4-r5.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/r6.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "r6.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/9e1afd12d190f10990340165bc9c1e254b1430913568b9b706bea20df185d44c-r6.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/r7.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "r7.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/0604439afbba3ed712cf9a01f886ea6aefca10a4595ed5fcf1ccfcc47bd77c3b-r7.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/r8.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "r8.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/84cadbb32b825189c7ee1f3bfdec9bb492ff1df90c78d643291cf43fc44f95ee-r8.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/r9.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "r9.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/52fb1712d5d3a5004ff47952cbedf0c8f7e338f4221e3496831271c254567103-r9.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/r10.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "r10.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/f93c5681a5a08104bdf556cf99fd28345d5d3fd4f996f63de0d9f7e138cfeb13-r10.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/r11.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "r11.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/6a21c0aee1365588906e4307e4e349a9faaf2a17d0774864296ca3c3dbc594fa-r11.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/r12.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "r12.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/978cbe163980d11996713a95d934bc558e65415e2a2e0c639bda2f72af6f1f29-r12.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/cloud1.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "cloud1.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/9575271731cdad2feed61075cd7cfb06e447d69a78437d905b391e0dd3e9ebfd-cloud1.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/cloud2.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "cloud2.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/0b3826675f659ea9dc38b4cfb668f19877838d49075f056386fd7d4cbc7513c4-cloud2.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/cloud3.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "cloud3.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/bcd160c72cce705d11cec5163a40e736078418947c9bed219ae805e518d45e77-cloud3.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/cloud4.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "cloud4.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/8b6c26825090e31561a30e738f7bb905a7e9a2427c0cea63ee44d7e8081526b7-cloud4.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/cloud5.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "cloud5.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/9b5c22267979705c650ac292ebd6ee9b19a99b1524f8fa8c8ba7e8527a49cba0-cloud5.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/cloud6.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "cloud6.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/40fbe04f02ebb775acdf3f394ad5ce14454f4f883689c9752193f2e5a768ff2c-cloud6.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/Screenshot 2025-02-17 184702.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Screenshot 2025-02-17 184702.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/6e4edcbd5b97c8d04033d549567d4b1a9c1b35bfc450ec9711f43b2c5ca192f2-Screenshot 2025-02-17 184702.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/Run 1.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "Run 1.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/251c2b3938476fb8b5a801cebab443b1efbfed13f0db475b729f99bffc2b1b93-Run 1.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/Run 2.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "Run 2.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/e043f7168c3cec40d1d8a852a9e133959e995db3f515956a61ee420156134fcf-Run 2.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/Run 3.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "Run 3.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/7a0f68b552f0d8fd41e12657654097b8d01a3583de7156d10da2808cff66f3f2-Run 3.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/Run 4.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "Run 4.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/5b79e183bf534b4a98c4b1ac7d110a106b1907a18bbbf49acb9bf4d61889d89b-Run 4.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/Run 5.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "Run 5.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/571416c9945e5b50c691d62f8d1ec3f165ff3dc2edfcee3a79f60d8c9ed0bb1b-Run 5.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/Run 6.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "Run 6.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/c7c7e34c027a05dca56a80edeee686073ca4468d019fb6e6553dc3867b39fe14-Run 6.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/Run 7.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "Run 7.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/f7b380213773cbf55a4a2b0e46ea5a71671053bf328b785a0c4c14947b820996-Run 7.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/Run 8.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "Run 8.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/f7b380213773cbf55a4a2b0e46ea5a71671053bf328b785a0c4c14947b820996-Run 8.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/Run 9.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "Run 9.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/acf105b8e2d817f0f2fc98bb0859935dd9403054fe6b9c5a7ca8413efa41aa6b-Run 9.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/Run 10.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "Run 10.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/67f5d226881b0aebf5a56c639783167ba4f018cfd09cd058420a3b7b855a9a9b-Run 10.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/Run 11.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "Run 11.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/3c49954d830d65c39f8536a37d32eb7e8da83683315fe68562b44260ce0ccb9e-Run 11.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/Run 12.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "Run 12.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/5bf6329394aa62a799b85f02cf8f3df93c9ca1629dd2f192ebff193bf4464786-Run 12.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/New image.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Minecraft.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Minecraft.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/93416c9eefd203052598a9d65707269f0034d6892c83bd881aba2e8dd58a92cb-Minecraft.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/5e07d36533c74b2988eec642bc403406-12.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "5e07d36533c74b2988eec642bc403406-12.fnt",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/b12289ad5d3e6b8e324273ee64e2f02c3b74948f8d636caa2dd3716f4f9725ca-5e07d36533c74b2988eec642bc403406-12.fnt",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/vertopal.com_Minecraft.fon",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "vertopal.com_Minecraft.fon",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/576ceb2eea45bb6601650b39295b6ae970b806f64e4dacb35880ad2b9f581b1c-vertopal.com_Minecraft.fon",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/GGBotNet-ca0d.url",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "GGBotNet-ca0d.url",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/1672f20e-322c-4aa8-b2fa-1e96b8b0ee7d/resources/ea7c100ff3539d3b01e0ea4b5f706329d37a83f2061d81643de98344a5c4593f-GGBotNet-ca0d.url",
+          "name": "cloud-project-resource"
+        }
+      }
+    ]
+  },
+  "objects": [],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT"
+  },
+  "objectsGroups": [],
+  "variables": [],
+  "layouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/untitled-scene"
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/smoothcamera"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/linearmovement"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/rectanglemovement"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/advancedjump"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/platformercharacteranimator"
+    }
+  ],
+  "externalLayouts": []
+}
